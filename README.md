@@ -1,5 +1,4 @@
-### Hi there 👋
-[README.md](https://github.com/debuuuu007/debuuuu007/files/13968134/README.md)<h1 align="center">Hi 👋, I'm Debraj Mondal</h1>
+<h1 align="center">Hi 👋, I'm Debraj Mondal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debuuuu007&label=Profile%20views&color=0e75b6&style=flat" alt="debuuuu007" /> </p>

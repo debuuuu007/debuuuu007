@@ -1,14 +1,17 @@
 # Hey, I’m Debraj Mondal 👋
 
 🚀 A developer exploring the world of 
-# DevOps, Cloud Computing, and Full-Stack Development #.
+# DevOps, Cloud Computing, and Full-Stack Development.
 
 I enjoy building practical prototypes, experimenting with technologies, and turning ideas into working projects.
 
 
 
 # 💫 About Me:
-* ☁️ Cloud & DevOps: Exploring cloud services, containerization, CI/CD, and deployment workflows.<br>* 💻 Frontend Development: Building interactive and responsive user interfaces.<br>* ⚙️ Backend Development: Developing application logic, APIs, and backend services.<br>* 🧩 Problem Solving: Currently grinding DSA and strengthening my fundamentals.
+* ☁️ Cloud & DevOps: Exploring cloud services, containerization, CI/CD, and deployment workflows.<br>
+* 💻 Frontend Development: Building interactive and responsive user interfaces.<br>
+* ⚙️ Backend Development: Developing application logic, APIs, and backend services.<br>
+* 🧩 Problem Solving: Currently grinding DSA and strengthening my fundamentals.
 
 
 # 💻 Tech Stack:
